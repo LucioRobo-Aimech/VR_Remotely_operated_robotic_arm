@@ -39,7 +39,7 @@ The software environment required for this repository:
   <li>Python code</li>
   <li>User Manual</li>
 </ol>
-<li>Cloud - based Teleoperation Library(<mark>You can check out my other repository on this content!</mark>)</li>
+<li>Cloud - <a href="https://github.com/LucioRobo-Aimech/AIMechSocket-Remote-operation-library">based Teleoperation Library</a></li>
 <li>README.md</li>
 </ol>
 
