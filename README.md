@@ -1,7 +1,7 @@
 # VR_Remotely_operated_robotic_arm
 Project Name: VR_Remotely_operated_robotic_arm (VR+遥操作机械臂)
 
-Author: Lucio.Yipeng Li / Wenfu Du
+Author: Lucio.Yipeng Li / <a href="https://github.com/WenfuDu">Wenfu Du</a>
 
 Contact email: Lucio.YipengLi@outlook.com
 
