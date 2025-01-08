@@ -23,12 +23,6 @@ The software environment required for this repository:
 3. For reference, it is recommended to use the IDE products of JetBrains. (I am a loyal user of JetBrains :> )
 
 <h2>File structure</h2>
-  1. VR
-    1. C# code (Simultaneously includes pose acquisition and information transmission)
-    2. User Manual 
-  2. Robot Arm
-  3. Senseglove
-  4. 
 <ol>
 <li>VR</li>
 <ol>
